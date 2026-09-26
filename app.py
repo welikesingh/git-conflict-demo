@@ -1,5 +1,5 @@
 def greet():
-    message = "Hello, World!"
+    message = "Feature B: change greeting message"
     print(message)
 
 greet()
